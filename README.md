@@ -1,7 +1,7 @@
 If anyone wants to get a jump on the first day you can install  Sublime Text, VIM, Python 3, Git, sign up for a GitHub account.
 
 # 2018 UCLA Recreation - Computer Programming and App Development Curriculum 	&#x1F498;
-![https://github.com/jendiamond](https://pbs.twimg.com/profile_images/378800000323719249/7b65387cfb6b6f2eced9d7b55f92c69c.png) Instructor - Jen Diamond - https://github.com/jendiamond - thejendiamond@gmail.com
+![https://github.com/jendiamond](https://pbs.twimg.com/profile_images/378800000323719249/7b65387cfb6b6f2eced9d7b55f92c69c.png) Instructors - Jen Diamond - Greg Santos - Lionel Levine - Tyrone Evans Clark
 
 ---
 
