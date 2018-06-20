@@ -1,5 +1,5 @@
-## Day 1 - Tuesday
-We only have 3 hours and a lot to learn so we are going to jump right in.
+## Day 1 - Tuesday July 17 2018
+We only have 3 hours together a day and a lot to learn so we are going to jump right in.
 
 ### What we will learn today
 + Data Types
