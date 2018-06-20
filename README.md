@@ -103,17 +103,17 @@ A very important part of being a programmer is being able to communicate. Often,
     + your name at the top 
     + the date and time
     + a short note to me about how you are feeling. 
-    for example:  
-        "I feel good"
-        "My pair is great"
-        "I am a bit confused about _____"
-        "My pair is not being nice. They did this _______"
-        "I am learning a lot"
-        "I feel really behind"
-        "I feel really ahead of everyone"
-            "and I am bored and this is why _____________"
-    	"I am still learning things"
-    	"I am enhoying teaching"
+    for example:   
+        "I feel good"  
+        "My pair is great"  
+        "I am a bit confused about _____"  
+        "My pair is not being nice. They did this _______"  
+        "I am learning a lot"  
+        "I feel really behind"  
+        "I feel really ahead of everyone"  
+            "and I am bored and this is why _____________"  
+    	"I am still learning things"  
+    	"I am enhoying teaching"  
     	"I am having a hard time teaching
     
 If you see any errors (spelling, clarity issues, et cetera) or want to add to any document we are using in this course ask about how to do a pull request. 
