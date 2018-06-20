@@ -52,17 +52,23 @@ We are going to keep working on the same skills over the course of this session 
 
 If you already have everything installed you will help the people who do not.
 
-A very important part of being a programmer is being able to communicate. Often, as a profession developer you will have to explain what you are doing to people who dom't know anything about programming. The better you can do this the more valuable you are.
+A very important part of being a programmer is being able to communicate. Often, as a profession developer you will have to explain what you are doing to people who don't know anything about programming. The better you can do this the more valuable you are.
 
 ## Projects
 ### Final Project 1 - A Live Personal Blog containing
 + Name of the the program - UCLA Summer Computer Program 2018
-+ My name and hithubname Instructor - Jen Diamond - https://github.com/jendiamond
-+ Your name and githubname
-+ Names of all your class mates and their githubnames
++ Your name and github name
++ Name and github name of your instructors  
+    + Jen Diamond - https://github.com/jendiamond
+    + Greg Santos - 
+    + Lionel Levine - 
+    + Tyrone Evans Clark - 
++ Names of all your class mates and their github names
 + All the vocabulary that you learned 
 + Summary of what you learned each day and how you felt about it
 + Links to your python projects / code
++ Your JavaScript projects
++ Link to your blog
 
 ### Live Personal Blog
 #### For each days post
@@ -81,31 +87,33 @@ A very important part of being a programmer is being able to communicate. Often,
 + We will be Pair Programming
 + There will be groups  
     + Groups will help each other
-    + You will ask each other for help before you ask me
-    + If you can't figure something out
-    + Then ask me
+    + Ask each other for help before you ask the instructors
+    + If then you still can't figure something out then ask an instructor
         + You should have a clear question 
             + When I do this _____________
             + Then this is the behavior I see
-+ One group will be responsible for making sure everyone has pushed to the collective blog
+    + One group will be responsible for 
+        + making sure everyone has pushed to the collective blog by the end of each day
+        + being the go-to first response helpers
 + Practice being Kind, Considerate & Helpful
 + Practice communicating clearly
 + You will post to your personal blog and push it to the main blog
-+ Comminication tools good confused bad
-+ At the breaks I'd like you to write us a note on a sticky note include these things
-+ your name at the top 
-+ the date and time
-+ a short note to me about how you are feeling. 
-for example:  
-    "I feel good"
-    "My pair is great"
-    "I am a bit confused about _____"
-    "My pair is not being nice. They did this _______"
-    "I am learning a lot"
-    "I feel really behind"
-    "I feel really ahead of everyone"
-        "and I am bored and this is why _____________"
-	"I am still learning things"
-	"I am enhoying teaching"
-	"I am having a hard time teaching
++ Communication tools good confused bad
++ At the end of the day write us a note
+    + your name at the top 
+    + the date and time
+    + a short note to me about how you are feeling. 
+    for example:  
+        "I feel good"
+        "My pair is great"
+        "I am a bit confused about _____"
+        "My pair is not being nice. They did this _______"
+        "I am learning a lot"
+        "I feel really behind"
+        "I feel really ahead of everyone"
+            "and I am bored and this is why _____________"
+    	"I am still learning things"
+    	"I am enhoying teaching"
+    	"I am having a hard time teaching
     
+If you see any errors (spelling, clarity issues, et cetera) or want to add to any document we are using in this course ask about how to do a pull request. 
